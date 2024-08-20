@@ -60,7 +60,7 @@ nav i{
     }
 
     25% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.jpeg");
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("img");
     }
 
     50% {
@@ -68,7 +68,7 @@ nav i{
     }
 
     75% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.jpeg");
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.webp");
     }
 
     100% {
