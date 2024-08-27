@@ -55,7 +55,7 @@ h1{
     margin: 12px;
     padding: 21px;
     border-radius: 12px;
-    margin-top: 12px;
+    margin-top: 60px;
 }
 
 
@@ -251,6 +251,10 @@ h1{
 /* MOBILES */
 
 @media (min-width: 0px) and (max-width:576px) {
+    .sidebar {
+        background-color: rgb(225, 225, 255, 0.15);
+        backdrop-filter: blur(10px);
+    }
   
     .rows1 {
         width: 100%;
@@ -337,20 +341,24 @@ h1{
 
 @media (min-width: 577px) and (max-width:768px) {
    
+    .sidebar {
+        background-color: rgb(225, 225, 255, 0.15);
+        backdrop-filter: blur(10px);
+    }
     .rows1 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
     
     .rows2 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
     
     .rows3 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
@@ -426,6 +434,10 @@ h1{
 
 
 @media (min-width: 769px) and (max-width:992px) {
+    .sidebar {
+        background-color: rgb(225, 225, 255, 0.15);
+        backdrop-filter: blur(10px);
+    }
     .section2{
         width: 90%;
      }
