@@ -427,23 +427,23 @@ h1{
 
 @media (min-width: 769px) and (max-width:992px) {
     .section2{
-        width: 80%;
+        width: 90%;
      }
      
     .rows1 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
     
     .rows2 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
     
     .rows3 {
-        width: 50%;
+        width: 33.3%;
         float: left;
     
     }
