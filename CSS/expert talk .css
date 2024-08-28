@@ -87,7 +87,6 @@ nav i {
 .rows1 {
     width: 25%;
     float: left;
-    height: 200px;
 
 }
 
@@ -243,6 +242,58 @@ nav i {
 /* MOBILES */
 
 @media (min-width: 0px) and (max-width:576px) {
+
+    .rows1 {
+        width: 100%;
+       
+    
+    }
+    
+    .rows2 {
+        width: 100%;
+      
+    }
+    
+    
+    .rows3 {
+        width: 100%;
+      
+    
+    }
+    
+    .rows4 {
+        width: 100%;
+        
+    }
+    
+    
+    .rows5 {
+        width: 100%;
+    }
+    
+    
+    .rows6 {
+        width: 100%;
+    }
+    
+    .rows7 {
+        width: 100%;
+    }
+    
+    .rows8 {
+        width: 100%;
+    }
+    
+    .rows9 {
+        width: 100%;
+    }
+    
+    .rows10 {
+        width: 100%;
+    }
+    
+
+
     /* FOOTER */
 
     .footerrow1 {
@@ -277,6 +328,63 @@ nav i {
 
 @media (min-width: 577px) and (max-width:768px) {
 
+    .rows1 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    .rows2 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    
+    .rows3 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    .rows4 {
+        width: 50%;
+        float: left;
+    }
+    
+    
+    .rows5 {
+        width: 60%;
+        float: left;
+    }
+    
+    
+    .rows6 {
+        width: 40%;
+        float: left;
+    }
+    
+    .rows7 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows8 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows9 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows10 {
+        width: 50%;
+        float: left;
+    }
+    
+
     /* FOOTER */
 
     .footerrow1 {
@@ -309,7 +417,62 @@ nav i {
 
 @media (min-width: 769px) and (max-width:992px) {
 
-
+    .rows1 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    .rows2 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    
+    .rows3 {
+        width: 50%;
+        float: left;
+    
+    }
+    
+    .rows4 {
+        width: 50%;
+        float: left;
+    }
+    
+    
+    .rows5 {
+        width: 60%;
+        float: left;
+    }
+    
+    
+    .rows6 {
+        width: 40%;
+        float: left;
+    }
+    
+    .rows7 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows8 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows9 {
+        width: 50%;
+        float: left;
+    }
+    
+    .rows10 {
+        width: 50%;
+        float: left;
+    }
+    
 
     /* FOOTER */
 
@@ -324,7 +487,62 @@ nav i {
 
 @media (min-width: 993px) and (max-width:1200px) {
 
-
+    .rows1 {
+        width: 25%;
+        float: left;
+    
+    }
+    
+    .rows2 {
+        width: 40%;
+        float: left;
+    
+    }
+    
+    
+    .rows3 {
+        width: 35%;
+        float: left;
+    
+    }
+    
+    .rows4 {
+        width: 35%;
+        float: left;
+    }
+    
+    
+    .rows5 {
+        width: 39%;
+        float: left;
+    }
+    
+    
+    .rows6 {
+        width: 26%;
+        float: left;
+    }
+    
+    .rows7 {
+        width: 25%;
+        float: left;
+    }
+    
+    .rows8 {
+        width: 25%;
+        float: left;
+    }
+    
+    .rows9 {
+        width: 25%;
+        float: left;
+    }
+    
+    .rows10 {
+        width: 25%;
+        float: left;
+    }
+    
 
 
     /* FOOTER */
