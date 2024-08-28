@@ -39,7 +39,7 @@ nav i{
 
 
 .section2 {
-    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url("gne.jpeg");
+    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url("img1.jpeg");
     width: 100%;
     margin-bottom: 25px;
     height: 300px;
@@ -56,23 +56,23 @@ nav i{
 
 @keyframes img {
     0% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.jpeg");
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("img1.jpeg");
     }
 
     25% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("img");
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("img2.jpeg");
     }
 
     50% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.jpeg");
-    }
-
-    75% {
         background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.webp");
     }
 
+    75% {
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("img1.jpeg");
+    }
+
     100% {
-        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.jpeg");
+        background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("gne.webp");
     }
 }
 
