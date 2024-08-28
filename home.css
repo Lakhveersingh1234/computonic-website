@@ -334,14 +334,12 @@ h3 span {
 
 
 /* SECTION5 */
+
 .section5 {
     width:90%;
     margin: auto;
 }
-/* .rows img {
-    border: 3px solid black;
-    border-radius: 10px;
-} */
+
 
 .rows .borders {
     box-shadow: 2px 2px 34px rgb(223, 218, 218);

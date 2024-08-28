@@ -36,7 +36,25 @@ ul a:hover::after {
 }
 
 /* SECTION2 */
-.section2 {
+
+.section2{
+    width: 100%;
+}
+
+.backgroundimg {
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: linear-gradient(rgb(0, 30, 67, 0.92), rgb(0, 30, 67, 0.92)), url("/img/bg.jpg");
+    
+}
+/* SECTION3 */
+.section3 {
     width:90%;
     margin: auto;
 }
@@ -63,7 +81,7 @@ h1{
     text-align: center;
     width: 100%;
 }
-.section2  img{
+.section3  img{
     width: 100%;
     height: 200px;
     margin-bottom: 11%;
@@ -510,7 +528,7 @@ h1{
 /* TABLETS */
 
 @media (min-width: 993px) and (max-width:1200px) {
-    .section2{
+    .section3{
         width: 80%;
      }
     
@@ -586,7 +604,7 @@ h1{
 
 @media(min-width:1200px) {
 
- .section2{
+ .section3{
     width: 80%;
  }
     .rows1 {
