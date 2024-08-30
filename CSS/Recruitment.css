@@ -484,12 +484,9 @@ nav i {
     .rows19 img {
         display: none;
     }
-    }
-    
+    /* FOOTER */
 
-     /* FOOTER */
-
-     .footerrow1 {
+    .footerrow1 {
         width: 50%;
     }
 
@@ -514,6 +511,11 @@ nav i {
         padding: 20PX;
 
     }
+
+    }
+    
+
+     
 @media (min-width: 769px) and (max-width:992px) {
 
     .rows1 {
