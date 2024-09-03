@@ -70,9 +70,9 @@ h1{
 
 .rows .borders {
     box-shadow: 2px 2px 17px rgb(161, 159, 159);
-    margin: 12px;
-    padding: 21px;
     border-radius: 12px;
+    margin: 13px;
+    padding: 15px;
     margin-top: 60px;
 }
 
@@ -84,12 +84,12 @@ h1{
 .section3  img{
     width: 100%;
     height: 200px;
-    margin-bottom: 11%;
+    margin-bottom: 6%;
 }
 
 
 .rows1 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -98,7 +98,7 @@ h1{
 }
 
 .rows2 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -107,7 +107,7 @@ h1{
 }
 
 .rows3 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -116,7 +116,7 @@ h1{
 }
 
 .rows4 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 }
 .rows4:hover{
@@ -124,7 +124,7 @@ h1{
 }
 
 .rows5 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -133,7 +133,7 @@ h1{
 }
 
 .rows6 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -142,7 +142,7 @@ h1{
 }
 
 .rows7 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -151,7 +151,7 @@ h1{
 }
 
 .rows8 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -159,7 +159,7 @@ h1{
     transform: scale(1.1);
 }
 .rows9 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
@@ -167,11 +167,19 @@ h1{
     transform: scale(1.1);
 }
 .rows10 {
-    width: 33.3%;
+    width: 25%;
     float: left;
 
 }
 .rows10:hover{
+    transform: scale(1.1);
+}
+.rows11 {
+    width: 25%;
+    float: left;
+
+}
+.rows11:hover{
     transform: scale(1.1);
 }
 /* FOOTER */
@@ -321,6 +329,10 @@ h1{
         width: 100%;
     
     }
+    .rows11 {
+        width: 100%;
+    
+    }
     
 
      /* FOOTER */
@@ -364,19 +376,19 @@ h1{
         backdrop-filter: blur(10px);
     }
     .rows1 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
     
     .rows2 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
     
     .rows3 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
@@ -415,6 +427,11 @@ h1{
     
     }
     .rows10 {
+        width: 50%;
+        float: left;
+    
+    }
+    .rows11 {
         width: 50%;
         float: left;
     
@@ -456,24 +473,21 @@ h1{
         background-color: rgb(225, 225, 255, 0.15);
         backdrop-filter: blur(10px);
     }
-    .section2{
-        width: 90%;
-     }
      
     .rows1 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
     
     .rows2 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
     
     .rows3 {
-        width: 33.3%;
+        width: 50%;
         float: left;
     
     }
@@ -512,6 +526,11 @@ h1{
     
     }
     .rows10 {
+        width: 50%;
+        float: left;
+    
+    }
+    .rows11 {
         width: 50%;
         float: left;
     
@@ -533,19 +552,19 @@ h1{
      }
     
     .rows1 {
-        width: 33.3%;
+        width: 25%;
         float: left;
     
     }
     
     .rows2 {
-        width: 33.3%;
+        width: 25%;
         float: left;
     
     }
     
     .rows3 {
-        width: 33.3%;
+        width: 25%;
         float: left;
     
     }
@@ -584,6 +603,11 @@ h1{
     
     }
     .rows10 {
+        width: 25%;
+        float: left;
+    
+    }
+    .rows11 {
         width: 25%;
         float: left;
     
@@ -607,7 +631,7 @@ h1{
  .section3{
     width: 80%;
  }
-    .rows1 {
+    /* .rows1 {
         width: 33.3%;
         float: left;
     
@@ -662,7 +686,7 @@ h1{
         width: 25%;
         float: left;
     
-    }
+    } */
     .rows .borders {
         margin-top: 42px;
     }
