@@ -62,8 +62,86 @@ nav i{
 /* SECTION3 */
 
 
-.section3{
-    margin-top: 7%;
+/* SECTION3 */
+
+.section3 {
+    width: 90%;
+    margin: auto;
+    margin-top: 4%;
+}
+
+.borders {
+    border-radius: 12px;
+    margin: 9px;
+    /* padding: 21px; */
+
+}
+
+
+.rows img {
+    width: 100%;
+    height: 330px;
+    border-radius: 8px;
+}
+
+.rows1 {
+    width: 25%;
+    float: left;
+
+}
+
+.rows2 {
+    width: 40%;
+    float: left;
+
+}
+
+
+.rows3 {
+    width: 35%;
+    float: left;
+
+}
+
+.rows4 {
+    width: 35%;
+    float: left;
+}
+
+
+.rows5 {
+    width: 39%;
+    float: left;
+}
+
+
+.rows6 {
+    width: 26%;
+    float: left;
+}
+
+.rows7 {
+    width: 25%;
+    float: left;
+}
+
+.rows8 {
+    width: 25%;
+    float: left;
+}
+
+.rows9 {
+    width: 25%;
+    float: left;
+}
+
+.rows10 {
+    width: 25%;
+    float: left;
+}
+.rows11 {
+    width: 100%;
+   
 }
 /* FOOTER */
 
